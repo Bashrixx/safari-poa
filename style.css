@@ -1,0 +1,14 @@
+#form1{
+    padding: 20px;
+    border-radius: 3px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}.j-container {
+    justify-content: center;
+    height: 100vh !important;
+}
+#leg1{
+    text-align: center;
+    background: red;
+}
